@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @osazee_the_jedi
-- 👀 I’m interested in Python,Smart contract Development, Machine Learning,Web development, NLP, Data analytics. 
-- 🌱 I’m currently learning Solidity
+- ### 👋 Hi, I’m Osazee Oghagbon
+- 👀 I build Smart contracts with solidity, Machine Learning models with python, Chat-bots with python and dialogflow while working with cloud services like AWS and   GCP. 
 - 💞️ I’m looking to collaborate on building machine learning models for blockchain and DEFi applications.  
-- 📫 How to reach me via email @ lordofoz24@gmail.com,oghagbonosazee20@gmail.com, +2348067576270
+- 📫 you can check out my twitter @Osazee_the_JEDi.
 
-<!---
-osazeejedi/osazeejedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osazeejedi)](https://github.com/anuraghazra/github-readme-stats)
