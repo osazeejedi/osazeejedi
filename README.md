@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osazee Jedidiah Oghagbon</h1>
-<h3 align="center">I build Smart contracts with solidity ,and oversee larger organisational goals as a program manager.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osazeejedi" alt="osazeejedi" /></a> </p>
+<h3 align="center">I build Smart contracts with solidity, decentralized applications with hyperledger ,and oversee larger organisational goals as a program manager.</h3>
 
 <p align="left"> <a href="https://twitter.com/osazee_the_jedi" target="blank"><img src="https://img.shields.io/twitter/follow/osazee_the_jedi?logo=twitter&style=for-the-badge" alt="osazee_the_jedi" /></a> </p>
 
