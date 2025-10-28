@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osazee Jedidiah Oghagbon</h1>
-<h3 align="center">I build Smart contracts with solidity, decentralized applications, modular blockchains with hyperledger , build predictive insights from data using machine learning and oversee larger organisational goals.</h3>
+<h3 align="center">I build Smart contracts with solidity, decentralized applications, modular blockchains with hyperledger and quorum, build predictive insights from data using machine learning and oversee larger organisational goals.</h3>
 
 <p align="left"> <a href="https://twitter.com/osazee_the_jedi" target="blank"><img src="https://img.shields.io/twitter/follow/osazee_the_jedi?logo=twitter&style=for-the-badge" alt="osazee_the_jedi" /></a> </p>
 
