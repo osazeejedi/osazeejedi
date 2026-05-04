@@ -20,7 +20,7 @@ Fintech • Blockchain • Infrastructure
 </p>
 
 <p align="center">
-📫 oghagbonosazee20@gmail.com
+📫 helloosaze@gmail.com
 </p>
 
 <p align="center">
